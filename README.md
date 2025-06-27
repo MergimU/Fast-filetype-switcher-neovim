@@ -1,5 +1,7 @@
 # Fast-filetype-switcher-neovim
 
+![Preview Filetype Switcher](preview.png)
+
 Require the plugin from init.lua
 ```
 -- Require utils
