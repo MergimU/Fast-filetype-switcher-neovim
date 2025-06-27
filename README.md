@@ -2,13 +2,7 @@
 
 ![Preview Filetype Switcher](preview.png)
 
-Require the plugin from init.lua
-```
--- Require utils
-local utils = require "utils"
-utils.setup() -- This registers the :Run command
-```
-
+Add `fast-filetype.lua` to folder 'lua/plugins/fast-filetype.lua'
 
 Set the keybindings
 ```
