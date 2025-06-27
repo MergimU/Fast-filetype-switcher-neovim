@@ -1,0 +1,1 @@
+# Fast-filetype-switcher-neovim
